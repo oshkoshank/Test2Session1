@@ -1,1 +1,4 @@
-
+Enter the ordinate of the first point: 1
+Enter the abscissa of the second point: 2
+Enter the ordinate of the second point: 2
+The distance between the point (1.00,1.00) and (2.00,2.00) is 2.14
